@@ -478,7 +478,7 @@ describe 'ActiveRecord Obstacle Course' do
     expect(ordered_items).to_not include(unordered_item)
   end
 
-  
+
   # ========================
   # You should be approximately here by the end of Week 4
   # ========================
